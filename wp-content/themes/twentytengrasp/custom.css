@@ -1,0 +1,17 @@
+
+#site-title {
+	float: left;
+	font-size: 30px;
+	line-height: 36px;
+	margin: 0 0 10px 0;
+	width: 700px;
+}
+
+#site-description {
+	clear: left;
+	float: left;
+	font-style: italic;
+	line-height: 10px;
+	margin: 0px 0 15px 0;
+	width: 300px;
+}
