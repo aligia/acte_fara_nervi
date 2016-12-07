@@ -3,6 +3,7 @@ Cum pot incepe sa contribui?
 1. Instalati XAMPP, SourceTree si Git
 SourceTree - este un tool care ne permite sa vizualizam in ce stare se afla codul de pe acest repository (ar
 trebui folosit mai mult ca un tool de vizualizare).
+
 SourceTree poate executa vizual si prin menu-uri comenzile care se pot face si cu Git in linie de comanda. 
 E de preferinta sa se foloseasca un singur program pentru a administra versiunile site-ului, atat local,
 pe calculatorul propriu cat si aici, in repository: ori SourceTree, ori Git.
@@ -21,7 +22,7 @@ se poate da copy-paste acestui link pe pagina principala).
 
 3. In folder-ul "BazaDate" aveti baza de date a site-ului. Aceasta trebuie importata in bazele de date PhpMyAdmin. Mergeti
 intr-un browser si scrieti: localhost/phpmyadmin - acolo apasati pe "Import" si importati baza de date "administratii", 
-care a fost exportata sub numele de "acte_fara_nervi"
+care a fost exportata sub numele de "acte_fara_nervi".
 
 4. O data ce ati facut toate lucruri 
 copiati continutul repository-ului in C:/xampp/htdocs/FolderulMeu, 
