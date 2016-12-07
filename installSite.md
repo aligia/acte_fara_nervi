@@ -25,8 +25,8 @@ intr-un browser si scrieti: localhost/phpmyadmin - acolo apasati pe "Import" si 
 care a fost exportata sub numele de "acte_fara_nervi".
 
 4. O data ce ati facut toate aceste lucruri 
-copiati continutul repository-ului in C:/xampp/htdocs/FolderulMeu, 
-deschideti panoul XAMPP si apasati "Start" la serverul Appache si MySql 
-mergeti intr-un browser unde scrieti la adresa: localhost/FolderulMeu
+copiati continutul repository-ului in C:/xampp/htdocs/FolderulMeu;
+deschideti panoul XAMPP si apasati "Start" la serverul Appache si MySql;
+mergeti intr-un browser unde scrieti la adresa: localhost/FolderulMeu.
 
 5. Pentru alte detalii tehnice - vom discuta pe platforma aleasa si comunicata prin mail.
